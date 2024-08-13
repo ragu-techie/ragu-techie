@@ -17,26 +17,26 @@ Hi there! I'm Ragu, a passionate Java developer with a strong background in desi
 
 ## Experience
 
-### [Software Engineer] at [Zoho]
-- **Duration:** [April-2019] - [October-2022]
+### Software Engineer at Zoho
+- **Duration:** April-2019 - October-2022
 
-### [SDE II] at [Groupon]
-- **Duration:** [October-2022] - [March-2023]
+### SDE II at Groupon
+- **Duration:** October-2022 - March-2023
 
 
 ## Education
-- **[B.E] in [Computer Science and Engineer]** - [Thiagarar collge of Engineering], [2019]
+- **B.E in Computer Science and Engineer** - Thiagarar collge of Engineering, 2019
 
 ## Contact
 
 Feel free to reach out to me through the following channels:
-- **LinkedIn:** []
-- **GitHub:** []
-- **Email:** [mrragucse@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/ragupathi-r-b31905180/
+- **GitHub:** https://github.com/ragu-techie
+- **Email:** mrragucse@gmail.com
 
 ## Fun Facts
 
-- **Hobbies:** [Exploring, Music]
-- **Languages Spoken:** [English, Tamil]
+- **Hobbies:** Exploring, Music
+- **Languages Spoken:** English, Tamil
 
 Thanks for visiting my profile! I'm always open to new opportunities and challenges. Let's connect!
